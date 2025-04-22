@@ -4,9 +4,9 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Praticing DS & Algos](https://github.com/masidagondwe/Driving-School-Management-System)
-- <b>Full Stack Web App</b>
+- <b>Full Stack App</b>
   - [School Management System](https://github.com/masidagondwe/Driving-School-Management-System)
-- <b>Android (Java & Kotlin)/b>
+- <b>Android (Java & Kotlin)</b>
   - [InvestmentHelper](https://github.com/masidagondwe/InvestmentCalculator)
   - [Women Health Care App](https://github.com/masidagondwe/AzimaiHealthCare)
 - <b>C# (.NET Desktop Applications)</b>
@@ -22,9 +22,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="MasidaGondwe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] <a href="https://www.youtube.com/@masida_gondwe">YouTube</a>
+<!--[<img align="left" alt="MasidaGondwe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] <a href="https://www.youtube.com/@masida_gondwe">YouTube</a>
 [<img align="left" alt="MasidaGondwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <a href="https://www.linkedin.com/in/masidagondwe/">Linkedin</a>
-[<img align="left" alt="MasidaGondwe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <a href="https://www.instagram.com/masida_gondwe">Instagram</a>
+[<img align="left" alt="MasidaGondwe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <a href="https://www.instagram.com/masida_gondwe">Instagram</a>-->
 
 [youtube]: https://www.youtube.com/@masida_gondwe
 [instagram]: https://www.instagram.com/masida_gondwe/
