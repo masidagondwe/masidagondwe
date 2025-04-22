@@ -22,10 +22,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="MasidaGondwe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MasidaGondwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MasidaGondwe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MasidaGondwe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] <a href="https://www.youtube.com/@masida_gondwe">YouTube</a>
+[<img align="left" alt="MasidaGondwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <a href="https://www.linkedin.com/in/masidagondwe/">Linkedin</a>
+[<img align="left" alt="MasidaGondwe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <a href="https://www.instagram.com/masida_gondwe">Instagram</a>
 
 [youtube]: https://www.youtube.com/@masida_gondwe
 [instagram]: https://www.instagram.com/masida_gondwe/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/masidagondwe/
