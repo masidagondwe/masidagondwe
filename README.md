@@ -2,10 +2,10 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice</b>
   - [Praticing DS & Algos](https://github.com/masidagondwe/Driving-School-Management-System)
 - <b>Full Stack Web App</b>
-  - [School Management System](https://github.com/masidagondwe/Driving-School-Management-System) <b><i>(Potentially NSFW)</b></i>
+  - [School Management System](https://github.com/masidagondwe/Driving-School-Management-System)
 - <b>Android (Java & Kotlin)/b>
   - [InvestmentHelper](https://github.com/masidagondwe/InvestmentCalculator)
   - [Women Health Care App](https://github.com/masidagondwe/AzimaiHealthCare)
