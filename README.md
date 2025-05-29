@@ -9,8 +9,6 @@
 - <b>Android (Java & Kotlin)</b>
   - [InvestmentHelper](https://github.com/masidagondwe/InvestmentCalculator)
   - [Women Health Care App](https://github.com/masidagondwe/AzimaiHealthCare)
-- <b>C# (.NET Desktop Applications)</b>
-  - To be updated
 - <b>Python</b>
   - To be updated
 
