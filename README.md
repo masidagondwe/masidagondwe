@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praticing DS & Algos](https://github.com/masidagondwe/Driving-School-Management-System)
+  - [Practicing DS & Algos](https://github.com/masidagondwe/Driving-School-Management-System)
 - <b>Full Stack App</b>
   - [School Management System](https://github.com/masidagondwe/Driving-School-Management-System)
 - <b>Android (Java & Kotlin)</b>
