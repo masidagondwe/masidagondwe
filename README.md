@@ -1,4 +1,4 @@
-<h1>Hi, I'm Masida! <br/><a href="https://github.com/masidagondwe">Software Developer</a>, <a href="https://www.linkedin.com/in/masidagondwe/">Data Analyst</a>, <a href="https://www.youtube.com/@masida_gondwe">YouTuber</a></h1>
+<h1>Hi, I'm Masida! <br/>Fullstack Software Developer</a>, <a href="https://www.linkedin.com/in/masidagondwe/">Data Analyst</a>, <a href="https://www.youtube.com/@masida_gondwe">YouTuber</a></h1>
 
 <h2>Software Development Projects:</h2>
 
