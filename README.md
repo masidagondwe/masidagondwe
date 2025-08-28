@@ -3,7 +3,7 @@
 <h3><strong>Full-Stack Software Engineer | Data &amp; Integration Specialist | Project Leader</strong></h3>
 
 <p>
-  Thanks for checking out my profile. I am a passionate Software Engineer who loves a good challenge and optimising. I run my own projects in my free time and contribute to a few opensource repositories here on GitHub from time to time. I have a track record of building <strong>scalable, data-driven, and secure solutions</strong> that have transformed organizations.
+  Thanks for checking out my profile. I am a passionate Software Engineer who loves a good challenge and optimising solutions. I run my own projects in my free time and contribute to a few open source repositories here on GitHub from time to time. I have a track record of building <strong>scalable, data-driven, and secure solutions</strong> that have transformed organizations.
   With 6+ years of experience across <strong>enterprise systems, mining technology, and digital transformation</strong>, I specialize in:
 </p>
 
