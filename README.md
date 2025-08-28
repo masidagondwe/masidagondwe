@@ -1,5 +1,8 @@
 <h1>Hi, I'm Masida! <br/></h1>
-
+<!-- Banner -->
+<p align="center">
+  <img src="https://via.placeholder.com/1000x250.png?text=Masida+Gondwe+|+Full+Stack+Engineer+%26+Project+Leader" alt="Masida Gondwe Banner"/>
+</p>
 <h3><strong>Full-Stack Software Engineer | Data &amp; Integration Specialist | Project Leader</strong></h3>
 
 <p>
