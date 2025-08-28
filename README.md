@@ -1,6 +1,6 @@
 <h1>Hi, I'm Masida! <br/></h1>
 
-<p><strong>Full-Stack Software Engineer | Data &amp; Integration Specialist | Project Leader</strong></p>
+<h3><strong>Full-Stack Software Engineer | Data &amp; Integration Specialist | Project Leader</strong></h3>
 
 <p>
   I build <strong>scalable, data-driven, and secure solutions</strong> that transform organizations.
