@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h3>🌍 Let’s Connect</h3>
+<h3>Let’s Connect</h3>
 <p>
   <a href="https://www.linkedin.com/in/masidagondwe" target="_blank" rel="noopener noreferrer">LinkedIn</a><br/>
   <!--<a href="https://medium.com/@masidagondwe" target="_blank" rel="noopener noreferrer">Medium</a><br/>-->
@@ -64,4 +64,4 @@
 <p><em>Always building at the intersection of software, data, and business impact.</em></p>
 
 [linkedin]: https://www.linkedin.com/in/masidagondwe/
--->
+
