@@ -25,7 +25,7 @@
     <strong>Driving School Management System</strong> — Web, desktop, and mobile apps connected via Firebase with dashboards and role-based access. A driving school business management platform for managing students, instructors, and vehicle assets
   </li>
   <li>
-    <strong>Mining Asset Lifecycle App</strong> — Blazor app to track rotating parts, manage workshop repairs, and analyze asset performance trends.
+    <strong>Hardware Asset Lifecycle App</strong> — Blazor app to track a workshop's hardware asset usage, manage repairs, and analyze asset performance trends.
   </li>
   <li>
     <strong>Copper Production Analytics</strong> — Automated ETL pipelines with Power BI dashboards that reduced reporting time by 60%.
