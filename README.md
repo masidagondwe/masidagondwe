@@ -1,6 +1,6 @@
 <h1>Hi, I'm Masida! <br/></h1>
 
-<h3><strong>Full-Stack Software Engineer | Data &amp; Integration Specialist | Project Leader</strong></h3>
+<h3><strong>Full-Stack Software Engineer | Integration Specialist | Project Leader</strong></h3>
 
 <p>
   Thanks for checking out my profile. I am a passionate Software Engineer who loves a good challenge and optimising solutions. I run my own projects in my free time and contribute to a few open source repositories here on GitHub from time to time. I have a track record of building <strong>scalable, data-driven, and secure solutions</strong> that have transformed organizations.
