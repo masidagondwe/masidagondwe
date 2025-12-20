@@ -1,6 +1,6 @@
 <h1>Hi, I'm Masida! <br/></h1>
 
-<h3><strong>Full-Stack Software Engineer | Integration Specialist | Project Leader</strong></h3>
+<h3><strong>Senior .NET Backend Engineer | Integrations, APIs, Azure DevOps | Cloud-ready systems</strong></h3>
 
 <p>
   Thanks for checking out my profile. I am a passionate Software Engineer who loves a good challenge and optimising solutions. I run my own projects in my free time and contribute to a few open source repositories here on GitHub from time to time. I have a track record of building <strong>scalable, data-driven, and secure solutions</strong> that have transformed organizations.
@@ -40,7 +40,7 @@
 <h3>Tech Stack</h3>
 
 <p><strong>Languages &amp; Frameworks:</strong>
-  <code>.NET (C#)</code> • <code>Blazor</code> • <code>React Native</code> • <code>Python</code>
+  <code>.NET (C#)</code> • <code>Javascript</code> • <code>React Native</code> • <code>Python</code>
 </p>
 <p><strong>Databases:</strong>
   <code>SQL Server</code> • <code>Firebase</code> • <code>PostgreSQL</code> • <code>MongoDB</code>
@@ -49,7 +49,7 @@
   <code>Azure DevOps</code> • <code>Docker</code> • <code>Kubernetes</code> • <code>CI/CD</code>
 </p>
 <p><strong>Data &amp; Reporting:</strong>
-  <code>Power BI</code> • <code>ETL pipelines</code> • <code>REST APIs</code>
+  <code>Power BI</code> • <code>ETL pipelines</code> • <code>REST APIs</code> <code>Tableau</code> •
 </p>
 
 <hr/>
