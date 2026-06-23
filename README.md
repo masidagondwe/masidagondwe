@@ -1,17 +1,16 @@
 <h1>Hi, I'm Masida! <br/></h1>
 
-<h3><strong>Senior Backend Engineer | Integrations, APIs, Azure DevOps | Cloud-ready systems</strong></h3>
+<h3><strong>Senior Backend Engineer | Data Engineer</strong></h3>
 
 <p>
-  Thanks for checking out my profile. I am a passionate Software Engineer who loves a good challenge and optimising solutions. I run my own projects in my free time and contribute to a few open source repositories here on GitHub from time to time. I have a track record of building <strong>scalable, data-driven, and secure solutions</strong> that have transformed organizations.
-  With 6+ years of experience across <strong>enterprise systems, mining technology, and digital transformation</strong>, I specialize in:
+  Hi there! Thanks for checking out my profile. I am a passionate Software and Data Engineer who loves a good challenge and optimising solutions. I run my own projects in my free time and contribute to a few open-source repositories from time to time. I have a track record of building <strong>scalable, data-driven, and secure solutions</strong> that have transformed organizations.
+  With 7+ years of experience across <strong>enterprise systems, mining technology, and digital transformation</strong>, I specialize in:
 </p>
 
 <ul>
   <li>Building <strong>real-time management systems</strong> (web, desktop &amp; mobile)</li>
   <li>Designing <strong>secure API integrations</strong> across enterprise platforms</li>
   <li>Creating <strong>analytics &amp; reporting pipelines</strong> for smarter decision-making</li>
-  <li>Leveraging <strong>.NET, C#, Blazor, SQL/NoSQL, Azure DevOps, Docker/Kubernetes, Python</strong></li>
 </ul>
 
 <hr/>
